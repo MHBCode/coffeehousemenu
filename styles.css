@@ -40,6 +40,9 @@ body{
   left: 50%;
   transform: translateX(-50%);
 }
+.section-title img{
+    padding: 20px;
+}
 .menus{
     display: flex;
     justify-content: space-between;
